@@ -204,6 +204,7 @@
   display: flex;
   flex-wrap: column;
   align-items: center;
+  z-index: 10; 
 }
 
 .table__blocks {
@@ -334,14 +335,6 @@
 
 .section-subtitle_theme_dark {
   width: 100%;
-}
-
-.table {
-  z-index: 10; 
-}
-
-.table__cell_theme_dark {
-  width: 200px;
 }
 
 .table__heading_theme_dark {
