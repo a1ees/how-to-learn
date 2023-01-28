@@ -170,6 +170,7 @@
   font-weight: 400;
   padding: 0px;
   margin: 0px;
+  z-index: 20;
 }
 
 .digits__section-title {
@@ -408,7 +409,6 @@
 .footer__column-link-text {
   padding: 0;
   margin: 0;
-  
 }
 
 .footer__social-icon {
