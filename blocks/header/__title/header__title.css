@@ -3,6 +3,7 @@
   font-size: 102px;
   font-weight: 600;
   width: 730px;
+  padding: 0;
   margin-left: 64px;
   z-index: 20;
 }
