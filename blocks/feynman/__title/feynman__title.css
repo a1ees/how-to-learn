@@ -4,7 +4,7 @@
   font-weight: 600;
   width: 648px;
   text-align: center;
-  padding-top: 100px;
-  padding-bottom: 70px;
+  margin: 0;
+  padding: 100px 0px 70px 0px;
   z-index: 10;
 }
